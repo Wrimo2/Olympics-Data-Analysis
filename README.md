@@ -89,4 +89,4 @@ Below is an overview of the commit history and important changes:
   - "Completed data analysis and added conclusions"
   - "Finalized notebook with insights and visualizations"
 
-## View Code - [Olympics data analysis using python libraries]([#Olympics data analysis using python libraries](https://github.com/Wrimo2/Olympics-Data-Analysis/blob/main/Olympics_data_analysis_using_python_libraries.ipynb)
+## View Code - [Olympics data analysis using python libraries](https://github.com/Wrimo2/Olympics-Data-Analysis/blob/main/Olympics_data_analysis_using_python_libraries.ipynb)
